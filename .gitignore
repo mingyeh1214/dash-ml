@@ -1,8 +1,9 @@
-venv
-*.pyc
-.env
-.DS_Store
-.Rproj.user
+.Rproj
+.user
 .Rhistory
 .RData
 .Ruserdata
+venv
+*.pyc
+.DS_Store
+.env
